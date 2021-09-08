@@ -42,9 +42,9 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ali-mortazavi"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/__ali.mortazavi__"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://t.me/Alimortazavi_pr"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Telegram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ali-mortazavi"><img src="https://img.shields.io/badge/-ali-mortazavi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/__ali.mortazavi__"><img src="https://img.shields.io/badge/-@__ali.mortazavi__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://t.me/Alimortazavi_pr"><img src="https://img.shields.io/badge/-Alimortazavi_prF?style=flat&logo=Telegram&logoColor=white"/></a>
 </p>
 
 ---
