@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I am Ali Mortazavi. I am a back-end specialist and a full-stack programmer.\
+💡 &nbsp;I am Ali Mortazavi. I am a front-end specialist and a MERN programmer.\
 🎓 &nbsp;I started programming when I was 13 years old and I have a lot of experience and I have finished many projects.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
