@@ -43,7 +43,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/ali-mortazavi"><img src="https://img.shields.io/badge/-Ali%20Mortazavi-1769FF?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/__ali.mortazavi__"><img src="https://img.shields.io/badge/-@__ali.mortazavi__-1769FF?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://t.me/Alimortazavi_pr"><img src="https://img.shields.io/badge/-Alimortazavi_pr-1769FF?style=flat&logo=Telegram&logoColor=white"/></a>
+<a href="https://t.me/salimortazavi"><img src="https://img.shields.io/badge/-salimortazavi-1769FF?style=flat&logo=Telegram&logoColor=white"/></a>
 </p>
 
 ---
